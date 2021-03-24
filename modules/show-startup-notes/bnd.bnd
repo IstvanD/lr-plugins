@@ -1,0 +1,4 @@
+Bundle-Name: show-startup-notes
+Bundle-SymbolicName: show.startup.notes
+Bundle-Version: 1.0.0
+Export-Package: show.startup.notes.constants
